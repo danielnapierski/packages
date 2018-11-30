@@ -1,4 +1,4 @@
-stellar-core (_VERSION_-_BUILD_VERSION_) stable; urgency=medium
+stellar-core-onfo (0.1-1) stable; urgency=medium
 
   * use clang-5.0 and llvm's libc++
 
@@ -8,19 +8,5 @@ stellar-core (_VERSION_-_BUILD_VERSION_) stable; urgency=medium
 
   * clean up dependencies
 
- -- Package Maintainer <packages@stellar.org>  Sat, 23 Nov 2018 23:03:50 +0000
+ -- Ivan Voras (ONFO) <ivan.voras@toptal.com>  Sat, 23 Nov 2018 23:03:50 +0000
 
-stellar-core (9.2.0-9) stable; urgency=medium
-
-  * pandoc is a build-dependency
-
- -- Package Maintainer <packages@stellar.org>  Mon, 12 Mar 2018 17:23:02 +0000
-
-stellar-core (9.1.0-6) stable; urgency=medium
-
-  * Makefile.am overrides vers string
-    with LOCAL_PACKAGE, LOCAL_VERSION and GIT_COMMIT environment variables
-
-  * Initial release 
-
- -- Package Maintainer <packages@stellar.org>  Thu, 30 Nov 2017 15:23:02 +0000

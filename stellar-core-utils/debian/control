@@ -1,7 +1,7 @@
 Source: stellar-core-utils
 Section: web
 Priority: optional
-Maintainer: Package Maintainer <packages@stellar.org>
+Maintainer: Ivan Voras (ONFO) <ivan.voras@toptal.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
 Homepage: https://www.stellar.org/
